@@ -1,11 +1,10 @@
-﻿using System;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace FullStackExcercise.Models
 {
     public class Genre
     {
-        public Byte Id { get; set; }
+        public byte Id { get; set; }
 
         [Required]
         [StringLength(255)]
