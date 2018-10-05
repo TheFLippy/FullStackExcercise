@@ -7,7 +7,6 @@ namespace FullStackExcercise.Models
     {
         public int Id { get; set; }
 
-
         public ApplicationUser Artist { get; set; }
 
         [Required]
