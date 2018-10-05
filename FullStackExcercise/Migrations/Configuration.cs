@@ -12,6 +12,8 @@ namespace FullStackExcercise.Migrations
             AutomaticMigrationsEnabled = false;
         }
 
+        //Testing GIT
+
         protected override void Seed(FullStackExcercise.Models.ApplicationDbContext context)
         {
             //  This method will be called after migrating to the latest version.
