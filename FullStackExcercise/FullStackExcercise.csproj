@@ -230,7 +230,9 @@
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
+    <Compile Include="UIModels\FutureDate.cs" />
     <Compile Include="UIModels\GigFormViewModel.cs" />
+    <Compile Include="UIModels\ValidTime.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap-theme.css" />
